@@ -8,9 +8,9 @@
     </a>
     <br>
     <br>
-    <a href='https://www.youtube.com/c/메이커' 
+    <a href='https://discord.gg/pKqVKrYt7Z' 
       target='_blank'>
-      메이커 유튜브
+      메이커 디스코드
     </a>
   </body>
 </html>
