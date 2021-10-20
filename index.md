@@ -7,6 +7,7 @@
       메이커 유튜브
     </a>
     <br>
+    </br>
     <a href='https://discord.gg/pKqVKrYt7Z' 
       target='_blank'>
       메이커 디스코드
