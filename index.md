@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <h1>메이커 웹사이트</h1>
